@@ -1,0 +1,19 @@
+{
+  "name": "communes-lonlat",
+  "version": "1.0.0",
+  "description": "geo.api.gouv.fr/communes export",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillett/communes-lonlat.git"
+  },
+  "author": "Thomas Guillet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillett/communes-lonlat/issues"
+  },
+  "homepage": "https://github.com/guillett/communes-lonlat#readme"
+}
