@@ -1,6 +1,6 @@
 {
   "name": "communes-lonlat",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "geo.api.gouv.fr/communes export",
   "main": "index.js",
   "scripts": {
